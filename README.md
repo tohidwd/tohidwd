@@ -1,4 +1,5 @@
-<img width="1200" height="300" alt="image" src="https://github.com/user-attachments/assets/bb8e14c6-03ff-4bd0-bee7-8c4cfc6362a2" />
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/96feb758-91fd-48e4-90be-d003f970d42b" />
+
 
 <h1 align="center">Hi 👋, I'm Tohidul islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
